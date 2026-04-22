@@ -3,6 +3,7 @@ using  namespace std;
 
 int main()
 {
-   cout << "Hello Repo ^_^" << endl; 
+    while(true)
+        cout << "Hello Repo ^_^" << endl; 
 }
- 
+  
